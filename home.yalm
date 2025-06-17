@@ -1,4 +1,11 @@
-name: "Sebastian S.A (Seba)"
-bio: "Passionate about technology, innovation, and open source. Experienced developer in FiveM, AOSP, JavaScript, TypeScript, and Python. Always learning and exploring new tech frontiers."
-location: "Chile"
-company: "" # You can fill this in with your current company or a project you're working on
+profile:
+  name: "Sebastian S.A (Seba)"
+  bio:
+    en: >
+      Passionate about technology, innovation, and open source. Experienced developer in FiveM, AOSP, JavaScript, TypeScript, and Python.
+      Always learning and exploring new tech frontiers.
+    es: >
+      Apasionado por la tecnología, la innovación y el software libre. Desarrollador con experiencia en FiveM, AOSP, JavaScript, TypeScript y Python.
+      Siempre aprendiendo y explorando nuevas fronteras tecnológicas.
+  location: "Chile"
+  company: ""  # Puedes completar esto con tu empresa actual o proyecto en curso
