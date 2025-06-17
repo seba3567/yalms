@@ -1,0 +1,35 @@
+ObsidianOS:
+  core_philosophy:
+    en: >
+      ObsidianOS is built on the foundational principles of the Android Open Source Project: open governance, user empowerment, and robust stability. 
+      We aim to provide a transparent and reliable Android experience, giving users the tools to tailor their device to their exact needs 
+      without unnecessary OEM additions or telemetry. Our focus is on delivering a lean, performant, and privacy-conscious system.
+    es: >
+      ObsidianOS se basa en los principios fundamentales del Proyecto de Código Abierto de Android: gobernanza abierta, empoderamiento del usuario y estabilidad robusta. 
+      Nuestro objetivo es ofrecer una experiencia Android transparente y confiable, brindando a los usuarios las herramientas necesarias para personalizar su dispositivo 
+      según sus necesidades, sin añadidos innecesarios del fabricante ni telemetría. Nos enfocamos en proporcionar un sistema ligero, eficiente y consciente de la privacidad.
+
+  key_features:
+    pure_aosp_base:
+      en: >
+        A clean, bloatware-free Android experience directly from source, ensuring optimal performance and responsiveness.
+      es: >
+        Una experiencia Android limpia y sin software innecesario, directamente desde el código fuente, que garantiza un rendimiento y una respuesta óptimos.
+    
+    privacy_first:
+      en: >
+        Enhanced privacy controls, minimal data collection, and tools to manage app permissions effectively.
+      es: >
+        Controles de privacidad mejorados, mínima recopilación de datos y herramientas para gestionar eficazmente los permisos de las aplicaciones.
+    
+    customization_suite:
+      en: >
+        Thoughtful additions for theming, UI tweaks, and navigation options without compromising system stability.
+      es: >
+        Funciones añadidas cuidadosamente para personalización de temas, ajustes de interfaz y opciones de navegación, sin comprometer la estabilidad del sistema.
+    
+    timely_updates:
+      en: >
+        Commitment to regular security patches and AOSP version updates, keeping your device secure and current.
+      es: >
+        Compromiso con actualizaciones periódicas de seguridad y versiones de AOSP, manteniendo tu dispositivo seguro y actualizado.
