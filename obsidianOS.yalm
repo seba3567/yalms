@@ -1,35 +1,81 @@
 ObsidianOS:
-  core_philosophy:
-    en: >
-      ObsidianOS is built on the foundational principles of the Android Open Source Project: open governance, user empowerment, and robust stability. 
-      We aim to provide a transparent and reliable Android experience, giving users the tools to tailor their device to their exact needs 
-      without unnecessary OEM additions or telemetry. Our focus is on delivering a lean, performant, and privacy-conscious system.
-    es: >
-      ObsidianOS se basa en los principios fundamentales del Proyecto de Código Abierto de Android: gobernanza abierta, empoderamiento del usuario y estabilidad robusta. 
-      Nuestro objetivo es ofrecer una experiencia Android transparente y confiable, brindando a los usuarios las herramientas necesarias para personalizar su dispositivo 
-      según sus necesidades, sin añadidos innecesarios del fabricante ni telemetría. Nos enfocamos en proporcionar un sistema ligero, eficiente y consciente de la privacidad.
+  tagline:
+    en: Reimagining Android with a focus on performance, privacy, and a pure AOSP experience.
+    es: Reimaginando Android con un enfoque en el rendimiento, la privacidad y una experiencia AOSP pura.
 
-  key_features:
-    pure_aosp_base:
+  interface_showcase:
+    en: ObsidianOS AOSP Interface Showcase
+    es: Demostración de la interfaz AOSP de ObsidianOS
+
+  core_philosophy:
+    title:
+      en: Our Core Philosophy
+      es: Nuestra Filosofía Central
+    description:
       en: >
-        A clean, bloatware-free Android experience directly from source, ensuring optimal performance and responsiveness.
+        ObsidianOS is founded on the principles of the Android Open Source Project: transparency, user empowerment, and unwavering stability.
+        We deliver a lean, performant, and privacy-centric Android, free from OEM bloat and intrusive telemetry, putting you in control.
       es: >
-        Una experiencia Android limpia y sin software innecesario, directamente desde el código fuente, que garantiza un rendimiento y una respuesta óptimos.
-    
+        ObsidianOS se basa en los principios del Proyecto de Código Abierto de Android: transparencia, empoderamiento del usuario y estabilidad inquebrantable.
+        Ofrecemos una versión de Android ligera, eficiente y centrada en la privacidad, libre de bloatware del fabricante y telemetría invasiva, poniendo el control en tus manos.
+
+  key_pillars:
+    pure_aosp:
+      title:
+        en: Pure AOSP Foundation
+        es: Base AOSP Pura
+      description:
+        en: >
+          Experience Android as it's meant to be: clean, bloatware-free, and built for performance directly from the source.
+        es: >
+          Experimenta Android como debe ser: limpio, sin software innecesario y construido para el rendimiento directamente desde el código fuente.
+
     privacy_first:
-      en: >
-        Enhanced privacy controls, minimal data collection, and tools to manage app permissions effectively.
-      es: >
-        Controles de privacidad mejorados, mínima recopilación de datos y herramientas para gestionar eficazmente los permisos de las aplicaciones.
-    
-    customization_suite:
-      en: >
-        Thoughtful additions for theming, UI tweaks, and navigation options without compromising system stability.
-      es: >
-        Funciones añadidas cuidadosamente para personalización de temas, ajustes de interfaz y opciones de navegación, sin comprometer la estabilidad del sistema.
-    
+      title:
+        en: Privacy First
+        es: Privacidad Primero
+      description:
+        en: >
+          Enhanced privacy controls, minimal data collection, and transparent permission management to keep your data secure.
+        es: >
+          Controles de privacidad mejorados, mínima recopilación de datos y gestión transparente de permisos para mantener segura tu información.
+
+    refined_customization:
+      title:
+        en: Refined Customization
+        es: Personalización Refinada
+      description:
+        en: >
+          Thoughtful UI enhancements, theming options, and navigation tweaks without compromising system stability or performance.
+        es: >
+          Mejoras cuidadosas en la interfaz, opciones de temas y ajustes de navegación sin comprometer la estabilidad ni el rendimiento del sistema.
+
     timely_updates:
-      en: >
-        Commitment to regular security patches and AOSP version updates, keeping your device secure and current.
-      es: >
-        Compromiso con actualizaciones periódicas de seguridad y versiones de AOSP, manteniendo tu dispositivo seguro y actualizado.
+      title:
+        en: Timely Updates
+        es: Actualizaciones Puntuales
+      description:
+        en: >
+          Committed to regular AOSP security patches and version updates, ensuring your device stays current and protected.
+        es: >
+          Comprometidos con parches de seguridad y actualizaciones de versión AOSP periódicas, manteniendo tu dispositivo actualizado y protegido.
+
+    optimized_performance:
+      title:
+        en: Optimized Performance
+        es: Rendimiento Optimizado
+      description:
+        en: >
+          Streamlined for speed and efficiency, ObsidianOS offers a smooth and responsive user experience on supported hardware.
+        es: >
+          Optimizado para velocidad y eficiencia, ObsidianOS ofrece una experiencia de usuario fluida y ágil en hardware compatible.
+
+    developer_friendly:
+      title:
+        en: Developer Friendly
+        es: Amigable para Desarrolladores
+      description:
+        en: >
+          An open environment for developers to build, experiment, and contribute to the AOSP ecosystem.
+        es: >
+          Un entorno abierto para que los desarrolladores construyan, experimenten y contribuyan al ecosistema AOSP.
